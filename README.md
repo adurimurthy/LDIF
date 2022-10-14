@@ -1,2 +1,2 @@
-# LDIF
-Final Project
+# LDIF Capstone Project on Algorithmic Trading
+## AAP
