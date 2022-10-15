@@ -33,3 +33,34 @@ iii. Metrics or Evaluation methods
 9. Discussion
 10. Conclusion
 11. Team members’ names
+
+
+Title: Algorithmic Trading and Backtesting
+Techniques:Trend Following Strategy (Moving Average), Backtesting the
+Trading Strategy (Implementation of a Simple Backtester)
+Overview and Problem Statement: Algorithmic trading is a style that
+utilizes the computer's ability to process data quickly and reacts faster to
+changes in the market. This approach is generally based on hard data
+rather than forecasts or opinions. So it just takes a data stream that comes
+into the algorithm. It processes it quickly and then it makes a decision
+whether or not to buy or sell. Some major categories of algorithmic trading
+are: mean reversion, momentum strategy, statistical arbitrage, trend
+following strategies. Here, using the trend following strategy, calculate the
+moving average to evaluate the market and the prices, by applying it to two
+time periods, over the period of a certain number of days.
+Backtesting the Trading Strategy: Backtesting refers to applying a
+trading system to historical data to verify how a system would have
+performed during the specified time period. For example, in the simple
+moving average crossover system, the trader would be able to input (or
+change) the lengths of the two moving averages used in the system. The
+trader could backtest to determine which lengths of moving averages would
+have performed the best on the historical data. In this project, the
+participants are expected to (i) visualize the variations in the data and (ii)
+obtain the simple moving average for 12 days and 26 days (iii) convert the
+stock price data to returns and check the position of the 12-day MA (fast)
+with respect to the 26-day MA (slow) and (iv) visualize the closing price,
+short and long moving averages and (v) implement a simple backtester
+(create a portfolio which can generate orders and manages the profit and
+loss) (vi) visualize the original data series and backtest series to check the
+performance of trading strategy.
+
